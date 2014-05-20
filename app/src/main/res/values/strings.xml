@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleAsyncTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_load_web">Load devcfgc web</string>
+    <string name="btn_show_toast">Show Message</string>
+    <string name="msg_toast">Performing simultaneous process!!</string>
+
+</resources>
